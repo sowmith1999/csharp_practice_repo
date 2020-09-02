@@ -1,0 +1,13 @@
+C:\Users\Sowmith Kunapaneni\source\repos\Algortihms_ToolBox_Week1\Algortihms_ToolBox_Week1\obj\Debug\netcoreapp3.1\Algortihms_ToolBox_Week1.csprojAssemblyReference.cache
+C:\Users\Sowmith Kunapaneni\source\repos\Algortihms_ToolBox_Week1\Algortihms_ToolBox_Week1\obj\Debug\netcoreapp3.1\Algortihms_ToolBox_Week1.csproj.CoreCompileInputs.cache
+C:\Users\Sowmith Kunapaneni\source\repos\Algortihms_ToolBox_Week1\Algortihms_ToolBox_Week1\obj\Debug\netcoreapp3.1\Algortihms_ToolBox_Week1.AssemblyInfoInputs.cache
+C:\Users\Sowmith Kunapaneni\source\repos\Algortihms_ToolBox_Week1\Algortihms_ToolBox_Week1\obj\Debug\netcoreapp3.1\Algortihms_ToolBox_Week1.AssemblyInfo.cs
+C:\Users\Sowmith Kunapaneni\source\repos\Algortihms_ToolBox_Week1\Algortihms_ToolBox_Week1\bin\Debug\netcoreapp3.1\Algortihms_ToolBox_Week1.exe
+C:\Users\Sowmith Kunapaneni\source\repos\Algortihms_ToolBox_Week1\Algortihms_ToolBox_Week1\bin\Debug\netcoreapp3.1\Algortihms_ToolBox_Week1.deps.json
+C:\Users\Sowmith Kunapaneni\source\repos\Algortihms_ToolBox_Week1\Algortihms_ToolBox_Week1\bin\Debug\netcoreapp3.1\Algortihms_ToolBox_Week1.runtimeconfig.json
+C:\Users\Sowmith Kunapaneni\source\repos\Algortihms_ToolBox_Week1\Algortihms_ToolBox_Week1\bin\Debug\netcoreapp3.1\Algortihms_ToolBox_Week1.runtimeconfig.dev.json
+C:\Users\Sowmith Kunapaneni\source\repos\Algortihms_ToolBox_Week1\Algortihms_ToolBox_Week1\bin\Debug\netcoreapp3.1\Algortihms_ToolBox_Week1.dll
+C:\Users\Sowmith Kunapaneni\source\repos\Algortihms_ToolBox_Week1\Algortihms_ToolBox_Week1\bin\Debug\netcoreapp3.1\Algortihms_ToolBox_Week1.pdb
+C:\Users\Sowmith Kunapaneni\source\repos\Algortihms_ToolBox_Week1\Algortihms_ToolBox_Week1\obj\Debug\netcoreapp3.1\Algortihms_ToolBox_Week1.dll
+C:\Users\Sowmith Kunapaneni\source\repos\Algortihms_ToolBox_Week1\Algortihms_ToolBox_Week1\obj\Debug\netcoreapp3.1\Algortihms_ToolBox_Week1.pdb
+C:\Users\Sowmith Kunapaneni\source\repos\Algortihms_ToolBox_Week1\Algortihms_ToolBox_Week1\obj\Debug\netcoreapp3.1\Algortihms_ToolBox_Week1.genruntimeconfig.cache

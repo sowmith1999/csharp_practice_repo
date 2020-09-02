@@ -1,0 +1,26 @@
+C:/Users/Sowmith Kunapaneni/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/bin/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.exe
+C:/Users/Sowmith Kunapaneni/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/bin/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.deps.json
+C:/Users/Sowmith Kunapaneni/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/bin/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.runtimeconfig.json
+C:/Users/Sowmith Kunapaneni/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/bin/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.runtimeconfig.dev.json
+C:/Users/Sowmith Kunapaneni/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/bin/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.dll
+C:/Users/Sowmith Kunapaneni/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/bin/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.pdb
+C:/Users/Sowmith Kunapaneni/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/obj/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.csprojAssemblyReference.cache
+C:/Users/Sowmith Kunapaneni/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/obj/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.csproj.CoreCompileInputs.cache
+C:/Users/Sowmith Kunapaneni/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/obj/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.AssemblyInfoInputs.cache
+C:/Users/Sowmith Kunapaneni/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/obj/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.AssemblyInfo.cs
+C:/Users/Sowmith Kunapaneni/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/obj/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.dll
+C:/Users/Sowmith Kunapaneni/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/obj/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.pdb
+C:/Users/Sowmith Kunapaneni/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/obj/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.genruntimeconfig.cache
+/home/sowmith/Documents/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/bin/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3
+/home/sowmith/Documents/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/bin/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.deps.json
+/home/sowmith/Documents/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/bin/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.runtimeconfig.json
+/home/sowmith/Documents/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/bin/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.runtimeconfig.dev.json
+/home/sowmith/Documents/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/bin/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.dll
+/home/sowmith/Documents/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/bin/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.pdb
+/home/sowmith/Documents/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/obj/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.csprojAssemblyReference.cache
+/home/sowmith/Documents/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/obj/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.AssemblyInfoInputs.cache
+/home/sowmith/Documents/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/obj/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.AssemblyInfo.cs
+/home/sowmith/Documents/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/obj/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.csproj.CoreCompileInputs.cache
+/home/sowmith/Documents/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/obj/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.dll
+/home/sowmith/Documents/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/obj/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.pdb
+/home/sowmith/Documents/source/repos/Algorithms_Toolbox_Week3/Algorithms_Toolbox_Week3/obj/Debug/netcoreapp3.1/Algorithms_Toolbox_Week3.genruntimeconfig.cache

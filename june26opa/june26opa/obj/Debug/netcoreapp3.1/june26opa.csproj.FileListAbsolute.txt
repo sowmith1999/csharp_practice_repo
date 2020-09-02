@@ -1,0 +1,13 @@
+C:\Users\Sowmith Kunapaneni\source\repos\june26opa\june26opa\bin\Debug\netcoreapp3.1\june26opa.exe
+C:\Users\Sowmith Kunapaneni\source\repos\june26opa\june26opa\bin\Debug\netcoreapp3.1\june26opa.deps.json
+C:\Users\Sowmith Kunapaneni\source\repos\june26opa\june26opa\bin\Debug\netcoreapp3.1\june26opa.runtimeconfig.json
+C:\Users\Sowmith Kunapaneni\source\repos\june26opa\june26opa\bin\Debug\netcoreapp3.1\june26opa.runtimeconfig.dev.json
+C:\Users\Sowmith Kunapaneni\source\repos\june26opa\june26opa\bin\Debug\netcoreapp3.1\june26opa.dll
+C:\Users\Sowmith Kunapaneni\source\repos\june26opa\june26opa\bin\Debug\netcoreapp3.1\june26opa.pdb
+C:\Users\Sowmith Kunapaneni\source\repos\june26opa\june26opa\obj\Debug\netcoreapp3.1\june26opa.csprojAssemblyReference.cache
+C:\Users\Sowmith Kunapaneni\source\repos\june26opa\june26opa\obj\Debug\netcoreapp3.1\june26opa.csproj.CoreCompileInputs.cache
+C:\Users\Sowmith Kunapaneni\source\repos\june26opa\june26opa\obj\Debug\netcoreapp3.1\june26opa.AssemblyInfoInputs.cache
+C:\Users\Sowmith Kunapaneni\source\repos\june26opa\june26opa\obj\Debug\netcoreapp3.1\june26opa.AssemblyInfo.cs
+C:\Users\Sowmith Kunapaneni\source\repos\june26opa\june26opa\obj\Debug\netcoreapp3.1\june26opa.dll
+C:\Users\Sowmith Kunapaneni\source\repos\june26opa\june26opa\obj\Debug\netcoreapp3.1\june26opa.pdb
+C:\Users\Sowmith Kunapaneni\source\repos\june26opa\june26opa\obj\Debug\netcoreapp3.1\june26opa.genruntimeconfig.cache

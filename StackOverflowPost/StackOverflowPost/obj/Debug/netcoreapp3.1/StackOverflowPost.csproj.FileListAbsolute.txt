@@ -1,0 +1,13 @@
+C:\Users\Sowmith Kunapaneni\source\repos\StackOverflowPost\StackOverflowPost\bin\Debug\netcoreapp3.1\StackOverflowPost.exe
+C:\Users\Sowmith Kunapaneni\source\repos\StackOverflowPost\StackOverflowPost\bin\Debug\netcoreapp3.1\StackOverflowPost.deps.json
+C:\Users\Sowmith Kunapaneni\source\repos\StackOverflowPost\StackOverflowPost\bin\Debug\netcoreapp3.1\StackOverflowPost.runtimeconfig.json
+C:\Users\Sowmith Kunapaneni\source\repos\StackOverflowPost\StackOverflowPost\bin\Debug\netcoreapp3.1\StackOverflowPost.runtimeconfig.dev.json
+C:\Users\Sowmith Kunapaneni\source\repos\StackOverflowPost\StackOverflowPost\bin\Debug\netcoreapp3.1\StackOverflowPost.dll
+C:\Users\Sowmith Kunapaneni\source\repos\StackOverflowPost\StackOverflowPost\bin\Debug\netcoreapp3.1\StackOverflowPost.pdb
+C:\Users\Sowmith Kunapaneni\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\netcoreapp3.1\StackOverflowPost.csprojAssemblyReference.cache
+C:\Users\Sowmith Kunapaneni\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\netcoreapp3.1\StackOverflowPost.csproj.CoreCompileInputs.cache
+C:\Users\Sowmith Kunapaneni\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\netcoreapp3.1\StackOverflowPost.AssemblyInfoInputs.cache
+C:\Users\Sowmith Kunapaneni\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\netcoreapp3.1\StackOverflowPost.AssemblyInfo.cs
+C:\Users\Sowmith Kunapaneni\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\netcoreapp3.1\StackOverflowPost.dll
+C:\Users\Sowmith Kunapaneni\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\netcoreapp3.1\StackOverflowPost.pdb
+C:\Users\Sowmith Kunapaneni\source\repos\StackOverflowPost\StackOverflowPost\obj\Debug\netcoreapp3.1\StackOverflowPost.genruntimeconfig.cache

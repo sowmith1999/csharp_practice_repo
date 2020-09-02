@@ -1,0 +1,30 @@
+8
+Pre-Built PC
+Goods
+12
+85000
+Cable Management
+Services
+3000
+Laptops
+Goods
+25
+99000
+Hardware Service
+Services
+4000
+Mice
+Goods
+18
+3500
+Software Management
+Services
+5000
+Keyboards
+Goods
+15
+4000
+Full Service
+Services
+7000
+4

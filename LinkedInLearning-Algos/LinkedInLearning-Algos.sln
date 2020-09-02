@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedInLearning-Algos", "LinkedInLearning-Algos\LinkedInLearning-Algos.csproj", "{A7E77A6F-AC8B-4CA4-AC70-5CAF6A84F3EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7E77A6F-AC8B-4CA4-AC70-5CAF6A84F3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E77A6F-AC8B-4CA4-AC70-5CAF6A84F3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E77A6F-AC8B-4CA4-AC70-5CAF6A84F3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E77A6F-AC8B-4CA4-AC70-5CAF6A84F3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C544F293-961A-47EC-B005-438929088A62}
+	EndGlobalSection
+EndGlobal
