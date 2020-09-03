@@ -1,13 +1,13 @@
-C:\Users\Sowmith Kunapaneni\Documents\C#\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.csprojAssemblyReference.cache
-C:\Users\Sowmith Kunapaneni\Documents\C#\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.csproj.CoreCompileInputs.cache
-C:\Users\Sowmith Kunapaneni\Documents\C#\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.AssemblyInfoInputs.cache
-C:\Users\Sowmith Kunapaneni\Documents\C#\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.AssemblyInfo.cs
-C:\Users\Sowmith Kunapaneni\Documents\C#\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.exe
-C:\Users\Sowmith Kunapaneni\Documents\C#\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.deps.json
-C:\Users\Sowmith Kunapaneni\Documents\C#\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.runtimeconfig.json
-C:\Users\Sowmith Kunapaneni\Documents\C#\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.runtimeconfig.dev.json
-C:\Users\Sowmith Kunapaneni\Documents\C#\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.dll
-C:\Users\Sowmith Kunapaneni\Documents\C#\CodeWars\CodeWars\bin\Debug\netcoreapp3.1\CodeWars.pdb
-C:\Users\Sowmith Kunapaneni\Documents\C#\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.dll
-C:\Users\Sowmith Kunapaneni\Documents\C#\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.pdb
-C:\Users\Sowmith Kunapaneni\Documents\C#\CodeWars\CodeWars\obj\Debug\netcoreapp3.1\CodeWars.genruntimeconfig.cache
+/home/sowmith/Documents/source/repos/CodeWars/CodeWars/bin/Debug/netcoreapp3.1/CodeWars
+/home/sowmith/Documents/source/repos/CodeWars/CodeWars/bin/Debug/netcoreapp3.1/CodeWars.deps.json
+/home/sowmith/Documents/source/repos/CodeWars/CodeWars/bin/Debug/netcoreapp3.1/CodeWars.runtimeconfig.json
+/home/sowmith/Documents/source/repos/CodeWars/CodeWars/bin/Debug/netcoreapp3.1/CodeWars.runtimeconfig.dev.json
+/home/sowmith/Documents/source/repos/CodeWars/CodeWars/bin/Debug/netcoreapp3.1/CodeWars.dll
+/home/sowmith/Documents/source/repos/CodeWars/CodeWars/bin/Debug/netcoreapp3.1/CodeWars.pdb
+/home/sowmith/Documents/source/repos/CodeWars/CodeWars/obj/Debug/netcoreapp3.1/CodeWars.csprojAssemblyReference.cache
+/home/sowmith/Documents/source/repos/CodeWars/CodeWars/obj/Debug/netcoreapp3.1/CodeWars.AssemblyInfoInputs.cache
+/home/sowmith/Documents/source/repos/CodeWars/CodeWars/obj/Debug/netcoreapp3.1/CodeWars.AssemblyInfo.cs
+/home/sowmith/Documents/source/repos/CodeWars/CodeWars/obj/Debug/netcoreapp3.1/CodeWars.csproj.CoreCompileInputs.cache
+/home/sowmith/Documents/source/repos/CodeWars/CodeWars/obj/Debug/netcoreapp3.1/CodeWars.dll
+/home/sowmith/Documents/source/repos/CodeWars/CodeWars/obj/Debug/netcoreapp3.1/CodeWars.pdb
+/home/sowmith/Documents/source/repos/CodeWars/CodeWars/obj/Debug/netcoreapp3.1/CodeWars.genruntimeconfig.cache

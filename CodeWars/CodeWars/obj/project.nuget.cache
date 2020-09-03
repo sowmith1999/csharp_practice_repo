@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bLEA+XZYHRjersGPTUEL+HnPxhSrwWXX0KYN7wW/92zVAwk2n5yCzjfwHGyUK6y0SBASJWv02JGPo7jooC+Zow==",
+  "dgSpecHash": "ZIBFrGQbzmAjI3pwcYVxhkyZnTVXCggmFn8jlrB/ZOIROWamqNMMDI64ZnJGO/cecIYoq7x6LL9flhu96iuAFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sowmith Kunapaneni\\Documents\\C#\\CodeWars\\CodeWars\\CodeWars.csproj",
+  "projectFilePath": "/home/sowmith/Documents/source/repos/CodeWars/CodeWars/CodeWars.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
