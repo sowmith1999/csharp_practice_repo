@@ -8,26 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Sowmith Kunapaneni\\.nuget\\packages\\": {}
+    "/home/sowmith/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sowmith Kunapaneni\\source\\repos\\Algorithms_ToolBox_Week4\\Algorithms_ToolBox_Week4\\Algorithms_ToolBox_Week4.csproj",
+      "projectUniqueName": "/home/sowmith/Documents/source/repos/Algorithms_ToolBox_Week4/Algorithms_ToolBox_Week4/Algorithms_ToolBox_Week4.csproj",
       "projectName": "Algorithms_ToolBox_Week4",
-      "projectPath": "C:\\Users\\Sowmith Kunapaneni\\source\\repos\\Algorithms_ToolBox_Week4\\Algorithms_ToolBox_Week4\\Algorithms_ToolBox_Week4.csproj",
-      "packagesPath": "C:\\Users\\Sowmith Kunapaneni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sowmith Kunapaneni\\source\\repos\\Algorithms_ToolBox_Week4\\Algorithms_ToolBox_Week4\\obj\\",
+      "projectPath": "/home/sowmith/Documents/source/repos/Algorithms_ToolBox_Week4/Algorithms_ToolBox_Week4/Algorithms_ToolBox_Week4.csproj",
+      "packagesPath": "/home/sowmith/.nuget/packages/",
+      "outputPath": "/home/sowmith/Documents/source/repos/Algorithms_ToolBox_Week4/Algorithms_ToolBox_Week4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sowmith Kunapaneni\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/sowmith/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
       }
     }
   }
